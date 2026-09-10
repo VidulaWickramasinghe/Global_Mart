@@ -41,3 +41,4 @@ Original product image sources are documented in `public/product-sources.json`. 
 
 `npx tsc --noEmit` checks TypeScript. `npm run build` compiles all application routes and the Worker. `work/verify-store.mjs` (when present locally) exercises server-side checkout invariants and route availability against the development server.
 # Global_Mart
+# Global_Mart
